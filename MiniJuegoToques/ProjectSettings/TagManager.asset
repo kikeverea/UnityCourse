@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Puntuacion
+  - LimiteIzquierdo
+  - LimiteDerecho
+  - Balon
   layers:
   - Default
   - TransparentFX
